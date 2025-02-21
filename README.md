@@ -17,4 +17,4 @@
 
 ## 📬 Contact  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)[https://www.linkedin.com/in/daniel-amores-8a8306278/]
-[![Pagina Web](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)][http://alumno09daw1.blog/]
+[![Pagina Web](https://img.shields.io/badge/Pagina-Web-FF5722?style=for-the-badge&logo=web&logoColor=white)][http://alumno09daw1.blog/]
